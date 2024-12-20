@@ -1,10 +1,6 @@
-**NAME**
+# FULL_ADDER_SUBTRACTOR
 
 SANDEEP S (24900896)
-
-**REG NO:24900896**
-
-# FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
