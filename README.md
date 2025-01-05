@@ -1,8 +1,10 @@
-# FULL_ADDER_SUBTRACTOR
+**NAME:SANDEEP**
 
-SANDEEP S (24900896)
+**REG NO:24900896**
 
-Implementation-of-Full-Adder-and-Full-subtractor-circuit
+**EX:4 FULL ADDER SUBTRACTOR**
+
+**Implementation-of-Full-Adder-and-Full-subtractor-circuit**
 
 **AIM:**
 
