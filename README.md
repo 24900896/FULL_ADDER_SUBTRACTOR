@@ -67,7 +67,7 @@ different input combinations generate the timing diagram
 
 **Output Timing Waveform**
 
-![image](https://github.com/user-attachments/assets/ecbcf691-d6c2-4728-8223-3904f8efb23f)
+<img width="652" alt="4444" src="https://github.com/user-attachments/assets/17cead50-4ac4-469d-9072-72ea4051b8f4" />
 
 
 **Result:**
