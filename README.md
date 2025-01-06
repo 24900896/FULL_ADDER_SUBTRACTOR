@@ -2,9 +2,9 @@
 
 **REG NO:24900896**
 
-**EX:4 FULL ADDER SUBTRACTOR**
+**EX:4**
 
-**Implementation-of-Full-Adder-and-Full-subtractor-circuit**
+**Implementation of Full Adder and Full subtractor circuit**
 
 **AIM:**
 
